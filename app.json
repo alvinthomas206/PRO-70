@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "c70-story-hub--1-",
+    "slug": "snack-e7810b89-cc84-4399-ad4b-54c17cf73dcf",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "github.com/rupinwhitehatjr/af4de9e605d5f4bed088fe6f3fab3fc8 @ Jul 18, 2020"
+  }
+}
